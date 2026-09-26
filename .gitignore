@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Molecular Dynamics trajectories
+*.dcd
+*.xtc
+*.trr
+
+# Large/raw simulation data
+data/raw/
+
+# Temporary files
+*.log
+*.tmp
